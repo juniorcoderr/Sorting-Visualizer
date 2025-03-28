@@ -1,6 +1,6 @@
 # 📊 Sorting Visualizer
 
-A **Sorting Visualizer** built using **C++**, which demonstrates the functionality and performance of various sorting algorithms with a real-time visualization interface.
+The **Sorting Visualizer** is a **C++ console-based application** that visually demonstrates the working of various sorting algorithms in real time. It supports popular algorithms like **Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, and Quick Sort**, each implemented in a modular structure for better code clarity and scalability. The program takes user input to select a sorting algorithm and dynamically visualizes the sorting process step-by-step using ASCII art. This project helps users understand how different algorithms operate, comparing their performance and behavior during execution. With a focus on simplicity and efficiency, the Sorting Visualizer is cross-platform and can be compiled using any standard **C++ compiler**. Future improvements could include expanding the algorithm library, integrating a graphical interface using libraries like **SFML** or **SDL**, and adding performance benchmarking for educational and analytical purposes. This project is ideal for students and enthusiasts seeking to deepen their understanding of sorting algorithms through an interactive and visual learning experience.
 
 ## 🗂️ Project Structure
 
